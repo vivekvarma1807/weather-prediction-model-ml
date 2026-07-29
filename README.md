@@ -1,4 +1,4 @@
- Weather Prediction using Machine Learning -
+Tomorrow's Weather Prediction using Machine Learning -
 
 A Python project that predicts tomorrow's maximum temperature using historical weather data and compares three machine learning algorithms.
 The link for the free weather data API --- [Open-Meteo API](https://open-meteo.com/)
