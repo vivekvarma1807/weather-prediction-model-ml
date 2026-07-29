@@ -66,4 +66,5 @@ PREDICTING TOMORROW'S MAXIMUM TEMPERATURE
 ==================================================
 Model Used         : Random Forest
 Predicted Max Temp : 31.42 °C
+
 Team members: ●	Sayyaparaju Vivek Sai Teja Varma, Sneha Ganguly
